@@ -1,0 +1,16 @@
+.list-area{
+    padding-top: 50px;
+    width: 50%;
+    margin: auto;
+    list-style: square;
+    list-style: url('../../Images/pen-svgrepo-com.svg') !important;
+}
+li{
+    padding: 5px 20px;
+}
+.span{
+    padding-left: 10px;
+}
+.delete{
+    color: RED;
+}

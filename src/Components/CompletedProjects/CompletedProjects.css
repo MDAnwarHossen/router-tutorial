@@ -1,0 +1,11 @@
+.complete-list-area{
+    padding-top: 50px;
+    width: 50%;
+    margin: auto;
+    list-style: square;
+    list-style: url('../../Images/checked.png') !important;
+}
+li{
+    padding: 5px 20px;
+}
+

@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+nav a{
+  padding: 2px 10px;
+  text-decoration: none;
+}
+.underline{
+  text-decoration: underline;
+}
+div li {
+  text-align: left;
+}
